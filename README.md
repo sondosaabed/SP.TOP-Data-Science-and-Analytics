@@ -1,1 +1,3 @@
 # SP.TOP-Data-Science-and-Analytics
+
+This course provides a comprehensive introduction to the principles, techniques, and applications of data science. Where we will explore the entire data science workflow, from data collection, cleaning, analysis, visualization, and modeling. The course emphasizes hands-on experience using and “Python” programming language with “Notebook” tools, enables developing practical skills in data manipulation, statistical analysis, and machine learning.
