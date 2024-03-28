@@ -1,0 +1,18 @@
+Assignment #5
+- In this assignment you need to analyse a UK-based online retail transactions occurring between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
+Using the data you need to answer the following questions:
+- Load the dataset into your notebook
+- Randomly select 200k row from the dataset using your ID as seed.
+
+Using proper grouping and aggregations, answer the following questions:
+1. Determine the total sales per invoice and identify the top 5 invoices.
+2. Compute the total sales per customer and list the top 5 customers.
+3. Identify the top 5 selling items during this period.
+4. Determine the most frequently purchased item pairs by customers and display the top 20 pairs.
+5. The retail store aims to introduce a new promotion targeting items with low sales volume. This promotion entails offering a discounted price for a pair of two different items, with one item being among the top 10 best sellers and the other from the bottom 10 sellers. Customers who purchase these two items together will qualify for the special pricing. Your task is to recommend 10 pairs of items to kickstart this campaign.
+
+Your notebook should be clear to read. Each question should be answered in the following structure:
+- Markdown cell containing the question and its number
+- Code cell(s) to make the calculations
+- Markdown cell for results and interpretation
